@@ -27,7 +27,7 @@ I am a passionate **Full-Stack .NET Developer** focused on building robust, scal
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ibra7im3del&show_icons=true&theme=dark&hide_border=true" alt="Ibrahim's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true" alt="Ibrahim's GitHub Stats" />
 </p>
 
 ---
