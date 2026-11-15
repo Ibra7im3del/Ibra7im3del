@@ -1,7 +1,10 @@
 # Hi there, I'm Ibrahim 👋
 
-I am a passionate **Full-Stack .NET Developer** focused on building robust, scalable, and high-performance web applications. I have a strong dedication to writing clean, maintainable code and continuously expanding my technical skillset.
-
+Junior Full-Stack .NET Developer with hands-on experience building and deploying web 
+applications using C#, ASP.NET Core Web API, Entity Framework Core, SQL Server, and React.js. 
+Built and deployed a full-stack e-commerce application with JWT authentication, role-based 
+authorization, and RESTful APIs. Strong foundation in OOP, data structures and algorithms, and 
+database design. Seeking a junior .NET / full-stack developer role
 ---
 
 ### 🛠️ Tech Stack & Tools
